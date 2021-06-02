@@ -1,1 +1,1 @@
-# git_test
+This is Anastasiya's first git project!
